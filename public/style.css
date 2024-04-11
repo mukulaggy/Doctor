@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://foyr.com/learn/wp-content/uploads/2021/08/modern-office-design.png");
+    background-size:cover;
+}
+.card{
+    margin-top: 5em;
+    margin-left: 20em;
+    margin-right: 20em;
+
+}
